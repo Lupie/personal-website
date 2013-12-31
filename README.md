@@ -9,4 +9,4 @@ my personal website
 3. The differences between JavaScript and CSS  
 4. The differences between Unix and Linux  
 5. How to ollie  
-6. ![Horse](http://www.wallpaperswala.com/wp-content/gallery/horse/horse524.jpg)
+6. ![Horse](http://www.wallpaperswala.com/wp-content/gallery/horse/horse524.jpg)"Trotting to Victory"
